@@ -47,11 +47,6 @@ namespace PatikaLibrary
             Console.WriteLine($"Kayıt Tarihi: {KayitTarihi}");
         }
     }
-    public class Book
-    {
-
-      
-    }
     public class Program
     {
         public static void Main(string[] args)
